@@ -1,4 +1,4 @@
-#Ukázka applikace s memory leakem
+# Ukázka applikace s memory leakem
 
 aplikace obsahuje stupidní memory leak a používá doporučené balíčky
 
